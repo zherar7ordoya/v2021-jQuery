@@ -1,0 +1,292 @@
+{
+    "basics": {
+        "name": "Gerardo Tordoya",
+        "label": "Fullstack Developer",
+        "picture": "https://avatars1.githubusercontent.com/u/23702746",
+        "email": "zherar7ordoya@pm.me",
+        "phone": "+54 9 388 584-3652",
+        "website": "https://zherar7ordoya.github.io/",
+        "summary": "About yourself - what your do, who you are, what you are looking for in your career.\n\nEn este momento, no sé qué decir de mí mismo.\nAsí que lo dejamos pendiente.\nPor el momento, al menos...",
+        "location": {
+            "address": "Sector 200 Viviendas",
+            "postalCode": "Y4600",
+            "city": "San Salvador de Jujuy",
+            "countryCode": "AR",
+            "region": "Jujuy"
+        },
+        "profiles": [
+            {
+                "network": "freeCodeCamp",
+                "username": "zherar7ordoya",
+                "url": "https://www.freecodecamp.org/zherar7ordoya"
+            },
+            {
+                "name": "",
+                "label": "",
+                "picture": "",
+                "email": "",
+                "phone": "",
+                "website": "",
+                "summary": "",
+                "location": {
+                    "address": "",
+                    "postalCode": "",
+                    "city": "",
+                    "countryCode": "",
+                    "region": ""
+                },
+                "profiles": [
+                    {
+                        "network": "",
+                        "username": "",
+                        "url": ""
+                    }
+                ],
+                "network": "GitHub",
+                "username": "zherar7ordoya",
+                "url": "https://github.com/zherar7ordoya"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "El Tribuno de Jujuy",
+            "location": "",
+            "description": "",
+            "position": "Facturación de Cuentas Corrientes",
+            "website": "https://www.eltribuno.com/jujuy",
+            "startDate": "2010-01",
+            "endDate": "",
+            "summary": "Details of your work, responsibilities and achievements. And a little about the company.",
+            "highlights": [
+                "Definí la función que el departamento debía cumplir.",
+                "Modelicé la mecánica de control de publicaciones",
+                "Desarrollé los métodos de verificación de la carga digital",
+                "Corregí errores y potenciaron aciertos hasta conseguir la manera eficaz de realizar la tarea",
+                "Organicé las distintas interacciones hasta conseguir una manera más eficiente de realizar la tarea",
+                "Fruto de ese diseño de eficiencia, fue necesario menos personal para realizar la misma tarea en menos tiempo y con una tasa casi nula de errores"
+            ]
+        },
+        {
+            "company": "OSFATUN (Obra Social de la Federación Argentina de los Trabajadores de las Universidades Nacionales)",
+            "location": "",
+            "description": "",
+            "position": "Referente de Fiscalización",
+            "website": "https://www.osfatun.com.ar/",
+            "startDate": "2006-01",
+            "endDate": "2009-12",
+            "summary": "Details of your work, responsibilities and achievements. And a little about the company.\n\nLo tengo que pensar...",
+            "highlights": [
+                "Encarar una tarea que resultaba desconocida para muchos profesionales",
+                "Ordenar la documental con la que se inauguraron los expedientes a procesar",
+                "Entablar relaciones con las áreas contables de las empresas en mora",
+                "Diseñar formas de control interno de avance de las distintas gestiones",
+                "Informatizar esos datos y mecanismos",
+                "Promover la capacitación del departamento a nivel nacional"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "ONG pertenecientes a movimientos eclesiásticos",
+            "position": "Voluntario, Capacitador",
+            "website": "https://www.adventist.org/",
+            "startDate": "1990-01",
+            "endDate": "2000-12",
+            "summary": "Details of your work, responsibilities and achievements. And a little about the company.\n\nCaray...!",
+            "highlights": [
+                "Briefly describe successes and outcomes (e.g. Increased profits by 20% from 2011-2012 through viral advertising)."
+            ]
+        },
+        {
+            "organization": "Name of the organisation you volunteered for.",
+            "position": "Role or position title.",
+            "website": "Company website.",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Details of your work, responsibilities and achievements. And a little about the company.",
+            "highlights": ["Highlights", "Otro...", "Highlights: Destacar"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "UAI",
+            "area": "Informática",
+            "studyType": "Analista Programador",
+            "startDate": "2020-07",
+            "endDate": "",
+            "gpa": "10",
+            "courses": ["Cálculo", "Sistemas", "Inglés", "Estructurada"]
+        },
+        {
+            "institution": "Free Code Camp, Inc.",
+            "area": "Web Development",
+            "studyType": "Fullstack Developer",
+            "startDate": "2017-01",
+            "endDate": "2020-04",
+            "gpa": "10",
+            "courses": ["HTML5", "CSS3", "ES6", "React"]
+        },
+        {
+            "institution": "Siri Siri",
+            "area": "Web Languages",
+            "studyType": "Type of study (e.g. Bachelor, Masters, PhD).",
+            "startDate": "2016-01",
+            "endDate": "2016-12",
+            "gpa": "10",
+            "courses": ["SQL", "JavaScript", "Python", "HTML", "CSS"]
+        },
+        {
+            "institution": "Instituto de Inglés Cultural",
+            "area": "Inglés",
+            "studyType": "Traductorado",
+            "startDate": "2002-01",
+            "endDate": "2003-12",
+            "gpa": "10",
+            "courses": [
+                "List notable courses/subjects (e.g. H1302 - Introduction to American history).",
+                "Mención Honorífica"
+            ]
+        },
+        {
+            "institution": "Administración Federal de Ingresos Públicos",
+            "area": "Administración Nacional de Aduanas",
+            "studyType": "Despachante de Aduanas",
+            "startDate": "1996-01",
+            "endDate": "1998-12",
+            "gpa": "10",
+            "courses": [
+                "List notable courses/subjects (e.g. H1302 - Introduction to American history)."
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Premio 1",
+            "date": "2000-01",
+            "awarder": "Who gave the award (e.g. Time Magazine).",
+            "summary": "Describe the award and circumstances (e.g. Received for my work with Quantum Physics)."
+        },
+        {
+            "title": "Premio 2",
+            "date": "",
+            "awarder": "Who gave the award (e.g. Time Magazine).",
+            "summary": "Describe the award and circumstances (e.g. Received for my work with Quantum Physics)."
+        }
+    ],
+    "publications": [
+        {
+            "company": "",
+            "location": "",
+            "description": "",
+            "position": "",
+            "website": "sites.google.com/zherar7ordoya",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Details of the article (e.g. Discussion of the World Wide Web, HTTP, HTML.).",
+            "highlights": [""],
+            "name": "On Salience",
+            "publisher": "Google Sites"
+        },
+        {
+            "name": "Name of the article (e.g. The World Wide Web).",
+            "publisher": "Name of the publication (e.g. IEEE, Computer Magazine).",
+            "releaseDate": "",
+            "website": "...",
+            "summary": "Details of the article (e.g. Discussion of the World Wide Web, HTTP, HTML.)."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Compositor",
+            "level": "Aprendiz",
+            "keywords": ["Clásica", "Cinemática", "Rock"]
+        },
+        {
+            "name": "Comprensión de Textos",
+            "level": "Experimentado",
+            "keywords": ["Cultura general"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Fluent"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cine",
+            "keywords": ["Clásicos", "Introspectivos"]
+        },
+        {
+            "name": "Música",
+            "keywords": ["Rock Argentino", "Etc."]
+        }
+    ],
+    "references": [
+        {
+            "name": "Name of the person (e.g. Don Long).",
+            "reference": "The reference given by the person (e.g. Joe blogs was a great employee, who turned up to work at least once a week. He exceeded my expectations when it came to doing nothing)."
+        },
+        {
+            "name": "Infeliz",
+            "description": "",
+            "highlights": [],
+            "keywords": [],
+            "startDate": "",
+            "endDate": "",
+            "website": "",
+            "roles": [],
+            "entity": "",
+            "type": "",
+            "reference": "Garrón"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Name of the company or organisation where you worked.",
+            "description": "Your role or position title.",
+            "highlights": [
+                "Briefly describe successes and outcomes (e.g. Increased profits by 20% from 2011-2012 through viral advertising).",
+                "Briefly describe successes and outcomes (e.g. Increased profits by 20% from 2011-2012 through viral advertising)."
+            ],
+            "keywords": ["Keyword", "Keyword", "Keyword"],
+            "startDate": "2000-01",
+            "endDate": "2000-02",
+            "website": "Company website.",
+            "roles": ["Role", "Role"],
+            "entity": "",
+            "type": ""
+        },
+        {
+            "name": "Name",
+            "description": "Description",
+            "highlights": ["Highlight", "Highlight", "Highlight"],
+            "keywords": ["Keyword", "Keyword", "Keyword"],
+            "startDate": "2020-01",
+            "endDate": "2020-02",
+            "website": "Website",
+            "roles": ["Role", "Role", "Role"],
+            "entity": "",
+            "type": ""
+        },
+        {
+            "name": "Nombre",
+            "description": "Descripción",
+            "highlights": ["Destacable", "Destacable", "Destacable"],
+            "keywords": ["Palabra clave", "Palabra clave", "Palabra clave"],
+            "startDate": "2020-03",
+            "endDate": "2020-03",
+            "website": "Sitio Web",
+            "roles": ["Función", "Función", "Función"],
+            "entity": "",
+            "type": ""
+        }
+    ],
+    "meta": {
+        "canonical": "",
+        "version": "",
+        "lastModified": ""
+    }
+}
